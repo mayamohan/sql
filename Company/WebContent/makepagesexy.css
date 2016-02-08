@@ -1,0 +1,23 @@
+.hello {
+font-family: 'Fjalla One', sans-serif;
+font-size: 50px;
+color:white;
+background-color: black;
+}
+
+
+table {
+	 border-collapse: collapse;
+	 width: 70%;
+	 background-color: black
+
+}
+
+tr {
+border: 1px solid white;
+color: #99CCFF;
+font-size: 20px;
+  padding: 0.5rem;
+  text-align: center;
+  font-family: 
+}
